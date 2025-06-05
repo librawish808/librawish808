@@ -7,7 +7,8 @@
 ---
 
 ### 📌 Contact
-- 📧 Email: sophiadiary842@gmail.com  
+- 📧 Email: sophiadiary842@gmail.com
+- 🥨 Vlog: https://librawish808.tistory.com/
 - 🐸 GitHub: [librawish808](https://github.com/librawish808)  
 - 📷 Instagram: [@librawish808](https://instagram.com/librawish808)
 - 🙋‍♀️ LinkedIn: (https://www.linkedin.com/in/지민-최-4b09a1367)
