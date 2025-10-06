@@ -2,7 +2,7 @@
 
 📍 Konkuk University  
 🐮 KUIT 5기 Android
-💬 관심 분야: Android, UI/UX, Kotlin, Jetpack Compose, Web, iOS
+💬 관심 분야: Android, UI/UX, iOS
 
 ---
 
