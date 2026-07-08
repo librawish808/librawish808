@@ -17,3 +17,8 @@
 ### 🏆 Award
 - 🏅 KUIT 5th Demo Day 대상 수상: Medicare Call
 
+### ☄️ Project
+- Medicare Call (2025.06 ~ ing)
+- Artium (2025.09 ~ 2025.12)
+- A!café (2026.05 ~ ing)
+
